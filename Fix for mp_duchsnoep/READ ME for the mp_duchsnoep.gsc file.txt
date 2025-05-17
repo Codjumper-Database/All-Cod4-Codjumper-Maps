@@ -1,0 +1,10 @@
+How to play mp_duchsnoep without it crashing:
+
+1. Choose which (codjumper) mod you want to use to play the map.
+2. Go to the folder of the (codjumper) mod. It's located at ...\Call of Duty 4 - Modern Warfare\Mods\<the mod you use>
+Create a new folder and change its name to 'maps'.
+3. Open the folder 'maps' and create another folder called 'mp'.
+4. Open the folder 'mp' and copy-paste the mp_duchsnoep.gsc file to this place.
+So the file should basically be in this directory: ...\Call of Duty 4 - Modern Warfare\Mods\<the mod you use>\maps\mp\mp_duchsnoep.gsc
+5. Open Call of Duty 4 and launch the mod. Now you should be able to load the map by typing in console: /devmap mp_duchsnoep
+6. Enjoy!
