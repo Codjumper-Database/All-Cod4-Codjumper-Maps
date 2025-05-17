@@ -1,10 +1,13 @@
 How to play mp_scarlet_citadel without it crashing:
 
-1. Choose which (codjumper) mod you want to use to play the map.
-2. Go to the folder of the (codjumper) mod. It's located at ...\Call of Duty 4 - Modern Warfare\Mods\<the mod you use>
+1. Click on mp_scarlet_citadel.gsc in the repository.
+2. Find the "download raw file" on the page in front of you and click on it.
+3. You have now downloaded the raw file.
+4. Choose which (codjumper) mod you want to use to play the map.
+5. Go to the folder of the (codjumper) mod. It's located at ...\Call of Duty 4 - Modern Warfare\Mods\<the mod you use>
 Create a new folder and change its name to 'maps'.
-3. Open the folder 'maps' and create another folder called 'mp'.
-4. Open the folder 'mp' and copy-paste the mp_scarlet_citadel.gsc file to this place.
+6. Open the folder 'maps' and create another folder called 'mp'.
+7. Open the folder 'mp' and copy-paste the mp_scarlet_citadel.gsc file to this place.
 So the file should basically be in this directory: ...\Call of Duty 4 - Modern Warfare\Mods\<the mod you use>\maps\mp\mp_scarlet_citadel.gsc
-5. Open Call of Duty 4 and launch the mod. Now you should be able to load the map by typing in console: /devmap mp_scarlet_citadel
-6. Enjoy!
+8. Open Call of Duty 4 and launch the mod. Now you should be able to load the map by typing in console: /devmap mp_scarlet_citadel
+9. Enjoy!
