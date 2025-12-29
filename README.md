@@ -67,8 +67,8 @@ Last update: 1-6-2025
 
 ### Additional Files
 There are a couple of additional files which can be acquired through the following link:  
-https://www.mediafire.com/file/k9z92ni1dc6ejj2/Additional_Files.zip/file  
-Last update: 1-6-2025
+https://www.mediafire.com/file/45x5gy8nr64s1ar/Additional_Files.zip/file  
+Last update: 29-12-2025
 
 It contains the following content:
 - Bouncebuilder v1.0
@@ -105,7 +105,7 @@ codjumperv3_12b: https://www.mediafire.com/file/9s16xiwllbjdxrx/codjumperv3_12b.
 msjumpmod: https://www.mediafire.com/file/2rznkwtcpq8oezj/msjumpmod.zip/file  
 ^1cod^2jumper: https://www.mediafire.com/file/6wrzklfuey68p7t/%255E1cod%255E2jumper.zip/file  
 unrealjump: https://www.mediafire.com/file/9oiodxqwqtd18gt/unrealjump.zip/file  
-4gf_codjumper: https://www.mediafire.com/file/u4yaq1uc4f1olu2/4gf_codjumper.zip/file  
+4gf_codjumper: https://www.mediafire.com/file/kkumjz6vcopoeqa/4gf_codjumper.zip/file  
 
 ## Backup Archive
 If any of the above links fail, try this alternative source:
