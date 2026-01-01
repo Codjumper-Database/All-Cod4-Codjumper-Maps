@@ -41,7 +41,7 @@ Last update: 1-6-2025
 2016: https://www.mediafire.com/file/tm35gcxfubp7edr/All_Cod4_Codjumper_Maps_2016.zip/file  
 Last update: 1-6-2025
 
-2017: https://www.mediafire.com/file/kt951e59u98lrf0/All_Cod4_Codjumper_Maps_2017.zip/file  
+2017: https://www.mediafire.com/file/cenz5c0bv9e4qzp/All_Cod4_Codjumper_Maps_2017.zip/file  
 Last update: 1-6-2025
 
 2018: https://www.mediafire.com/file/ovfhw4eslanh564/All_Cod4_Codjumper_Maps_2018.zip/file  
@@ -62,8 +62,11 @@ Last update: 1-6-2025
 2023: https://www.mediafire.com/file/t5x3o1ypka15gb1/All_Cod4_Codjumper_Maps_2023.zip/file  
 Last update: 1-6-2025
 
-2024: https://www.mediafire.com/file/4odh8xcq4mqkpix/All_Cod4_Codjumper_Maps_2024.zip/file  
-Last update: 1-6-2025
+2024: https://www.mediafire.com/file/kw1n2ndarnql2ah/All_Cod4_Codjumper_Maps_2024.zip/file  
+Last update: 1-1-2026
+
+2025 till July 1st: https://www.mediafire.com/file/6jl1g15l2xn3ckz/All_Cod4_Codjumper_Maps_2025_Till_July_1st.zip/file
+Last update: 1-1-2026
 
 ### Additional Files
 There are a couple of additional files which can be acquired through the following link:  
