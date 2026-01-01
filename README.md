@@ -65,7 +65,7 @@ Last update: 1-6-2025
 2024: https://www.mediafire.com/file/kw1n2ndarnql2ah/All_Cod4_Codjumper_Maps_2024.zip/file  
 Last update: 1-1-2026
 
-2025 till July 1st: https://www.mediafire.com/file/6jl1g15l2xn3ckz/All_Cod4_Codjumper_Maps_2025_Till_July_1st.zip/file
+2025 till July 1st: https://www.mediafire.com/file/6jl1g15l2xn3ckz/All_Cod4_Codjumper_Maps_2025_Till_July_1st.zip/file  
 Last update: 1-1-2026
 
 ### Additional Files
